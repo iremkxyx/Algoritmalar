@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\bin\Debug\net7.0\SifreKirmaSezar.exe
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\bin\Debug\net7.0\SifreKirmaSezar.deps.json
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\bin\Debug\net7.0\SifreKirmaSezar.runtimeconfig.json
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\bin\Debug\net7.0\SifreKirmaSezar.dll
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\bin\Debug\net7.0\SifreKirmaSezar.pdb
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\obj\Debug\net7.0\SifreKirmaSezar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\obj\Debug\net7.0\SifreKirmaSezar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\obj\Debug\net7.0\SifreKirmaSezar.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\obj\Debug\net7.0\SifreKirmaSezar.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\obj\Debug\net7.0\SifreKirmaSezar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\obj\Debug\net7.0\SifreKirmaSezar.dll
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\obj\Debug\net7.0\refint\SifreKirmaSezar.dll
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\obj\Debug\net7.0\SifreKirmaSezar.pdb
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\obj\Debug\net7.0\SifreKirmaSezar.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\irem\çalışmalarım\algoritmalar\Algoritmalar\SifreKirmaSezar\obj\Debug\net7.0\ref\SifreKirmaSezar.dll

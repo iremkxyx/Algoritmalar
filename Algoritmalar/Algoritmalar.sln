@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifrelemeSezar", "SifrelemeSezar\SifrelemeSezar.csproj", "{A7A280D9-6E16-44ED-82AF-1D67FE0550DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifreKirmaSezar", "SifreKirmaSezar\SifreKirmaSezar.csproj", "{0B3096F3-6CEF-4FFC-8F01-2CA683C27B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A280D9-6E16-44ED-82AF-1D67FE0550DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A280D9-6E16-44ED-82AF-1D67FE0550DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A280D9-6E16-44ED-82AF-1D67FE0550DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A280D9-6E16-44ED-82AF-1D67FE0550DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3096F3-6CEF-4FFC-8F01-2CA683C27B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3096F3-6CEF-4FFC-8F01-2CA683C27B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3096F3-6CEF-4FFC-8F01-2CA683C27B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3096F3-6CEF-4FFC-8F01-2CA683C27B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {828B1681-7A7D-498A-870F-7F3A3480D129}
+	EndGlobalSection
+EndGlobal
